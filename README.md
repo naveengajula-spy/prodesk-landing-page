@@ -15,6 +15,9 @@ A pixel-perfect, fully responsive landing page module built for Sprint 01 at Pro
 ## Performance & Accessibility Audit
 - **Lighthouse Score**: 100/100 across Performance, Accessibility, Best Practices, and SEO.
 
-## Deployment
+## Deployed Application
 - **Live URL**: https://starlit-gumdrop-e05e0a.netlify.app/
 - **GitHub Repository**: https://github.com/naveengajula-spy/prodesk-landing-page
+
+### Preview of Deployed Site
+![Deployed Site Preview](deployed-site.png)
